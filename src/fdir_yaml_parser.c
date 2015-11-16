@@ -517,7 +517,7 @@ yaml_parser(char* file_name, struct fdir_parsing *filter_tmp,
 static int
 toto( __attribute__((unused)) struct fdir_parsing* dummy){
   
-  printf("toto\n");
+//  printf("toto\n");
   return 0;
 }
 
